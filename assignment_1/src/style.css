@@ -1,0 +1,5 @@
+.pcard {
+  box-shadow: none;
+  border-radius: 0;
+  margin: rem(0, 2, 12, 2);
+}
